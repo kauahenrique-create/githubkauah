@@ -38,5 +38,5 @@ Os projetos aqui hospedados demonstram o domínio em competências críticas que
 
 ## 🔗 Publicação e Integração profissional
 
-* **Apresentação em Produção (Vitrine):** Este repositório está integrado e publicado através do **GitHub Pages**, fornecendo uma interface de navegação fluida para visualização do portfólio executável.
-* **Perfil Acadêmico:** Kauã Henrique Tolentino Nunes – Graduando em Análise e Desenvolvimento de Sistemas, Brasília-DF.
+* **Apresentação em Produção (Vitrine):** Este repositório está integrado e publicado através do **GitHub Pages**, fornecendo uma interface de navegação fluida. Acesse o projeto em produção aqui:https://kauahenrique-create.github.io/githubkauah/resume.html
+* **Perfil Acadêmico:** [Kauã Henrique Tolentino Nunes](https://www.linkedin.com/feed/) – Graduando em Análise e Desenvolvimento de Sistemas, Brasília-DF.
